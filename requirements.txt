@@ -1,0 +1,5 @@
+openai
+transformers
+peft
+datasets
+accelerate
