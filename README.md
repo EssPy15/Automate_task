@@ -15,3 +15,7 @@ This repository contains all deliverables for the Assignment Assistant AI Agent 
 4. `logs/interaction_logs.txt` — Full session history and interaction logs.  
 5. `Data_Science_Assignment_Assistant_AI_Agent.docx` — Project report and documentation.  
 6. Any additional screenshots or diagrams in `/docs`.
+
+## AI interaction log
+
+https://chatgpt.com/share/68cab2bd-4a70-8006-a5fa-81fb58369e90
