@@ -17,5 +17,7 @@ This repository contains all deliverables for the Assignment Assistant AI Agent 
 6. Any additional screenshots or diagrams in `/docs`.
 
 ## AI interaction log
-
 https://chatgpt.com/share/68cab2bd-4a70-8006-a5fa-81fb58369e90
+
+### Model in action
+<img width="1496" height="478" alt="image" src="https://github.com/user-attachments/assets/5f063d0c-2d9c-46d1-a903-62bafb0f6601" />
