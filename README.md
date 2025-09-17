@@ -1,7 +1,7 @@
 # Assignment Assistant AI Agent
 
 ## Student Information
-- **Name:** Swastik P.  
+- **Name:** Swastik Pramanik.  
 - **University:** IIT Guwahati
 - **Department:** Electronics and Communication Engineering  
 
